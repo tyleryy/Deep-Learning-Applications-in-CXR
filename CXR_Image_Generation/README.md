@@ -7,7 +7,7 @@ At this point, you may either train a new model, or load pretrained weights and 
   For option 1:
   
   Run all cells in order from top to bottom until reaching the header titled "Train".
-  So far, the data will have been downloaded, cleaned, and placed into loaders. The models will also have been initialized.
+  So far, the data will have been downloaded, cleaned, and placed into dataloaders. The models will also have been initialized.
 
   Run the first two cells, stopping at the one with the comment "clear GPU cache (RUN THIS BEFORE EVERY TRAINING RUN)".
   This cell will delete the models and weights, so do not run this for now.
