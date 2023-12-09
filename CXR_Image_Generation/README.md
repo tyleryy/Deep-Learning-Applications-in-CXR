@@ -21,4 +21,7 @@ At this point, you may either train a new model, or load pretrained weights and 
   Go to the bottom of the notebook to the label titled "Load pretrained GANs model".
   Run the cells sequentially to load in pretrained weights and generate pictures. Make sure to edit the file path to be the path of the weights file you intend to load.
 
+  The pretrained weights can be found at https://drive.google.com/drive/folders/1VQ6VHVB-0Rp-mDzUzHl15XpnRMNCuULj under the folder "GAN Weights".
+  weights1 stores an earlier iteration of the weights while final_weights stores the best weights we obtained.
+
   
